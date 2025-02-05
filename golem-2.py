@@ -1,6 +1,6 @@
 import requests
 url = 'https://los.rubiya.kr/chall/golem_4b5202cfedd8160e73124b5234235ef5.php'
-cookie = {'PHPSESSID' : 'd578f332jjqon6535ic3a10pcb'}
+cookie = {'PHPSESSID' : 개인쿠키값}
 
 for i in range(1, 9):
     for j in range(48, 123):
